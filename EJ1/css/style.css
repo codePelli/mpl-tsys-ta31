@@ -106,6 +106,8 @@ p{
 #facebook, #twitter, #google{
     border: 1px solid;
     color: gray;
+    height: 30px;
+    width: 150px;
 }
 
 .bi{
