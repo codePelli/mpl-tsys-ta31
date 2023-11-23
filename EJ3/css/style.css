@@ -51,8 +51,14 @@ svg{
     display: flex;
     gap: 15px;
     align-items: center;
-    padding-left: 30px;
-    padding-right: 50px;
+    padding-left: 25px;
+    padding-right: 20px;
+}
+
+.bi-person-fill{
+    margin-left: 20px;
+    height: 40px;
+    width: 40px;
 }
 
 form{
