@@ -43,10 +43,6 @@ svg{
     color: white;
 }
 
-#navbarSupportedContent{
-    border-left: 1px solid;
-}
-
 #rightBar{
     display: flex;
     gap: 15px;
