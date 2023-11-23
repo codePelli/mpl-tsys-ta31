@@ -10,6 +10,7 @@
     color: rgb(83, 163, 238);
     width: 100%;
     text-align: center;
+    border-bottom: 1px solid;
 }
 
 .container{
@@ -18,12 +19,21 @@
     background-color: whitesmoke;
 }
 
+.row2{
+    padding: 10px;
+}
+
 .col2, .col3{
-    padding-left: 10%;
+    margin-left: 15%;
+    padding-right: 5%;
 }
 
 .col2{
     width: 100%;
+}
+
+.bi{
+    color: rgb(83, 163, 238);
 }
 
 input{
