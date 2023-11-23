@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#main{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.row2 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.container{
+    background-color: orange;
+}
+
+input{
+    background-color: white;
+}
+
+.bi-layout-text-sidebar-reverse{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.nav-link{
+    color: white;
+    border-right: 1px solid;
+    border-color: black;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+svg{
+    color: white;
+}
+
+#navbarSupportedContent{
+    border-left: 1px solid;
+}
+
+#rightBar{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 50px;
+}
+
+form{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
