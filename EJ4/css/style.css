@@ -48,10 +48,11 @@ svg{
 
 #rightBar{
     display: flex;
-    gap: 15px;
+    gap: 10px;
+    justify-content: center;
     align-items: center;
-    padding-left: 25px;
     color: white;
+    margin-right: 10px;
 }
 
 .bi-person-fill{
@@ -121,13 +122,14 @@ svg{
 
 .row4{
     margin-top: 30px;
+    margin-left: 10px;
 }
 
 .row3{
     padding-left: 15px;
 }
 
-h1, h6, .row4{
+h1, h6{
     padding-left: 15px;
     padding-top: 15px;
 }
