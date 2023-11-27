@@ -1,0 +1,42 @@
+.navbar-nav {
+    display: flex;
+    align-items: center;
+}
+
+#colRight{
+    margin-top: 160px;
+    padding-left: 70px;
+}
+
+.firstNews, .secondNews{
+    margin-top: 40px;
+}
+
+h2{
+    font-size: 70px;
+}
+
+.sub{
+    font-weight: bold;
+    color: rgb(184, 183, 183);
+    font-size: 20px;
+}
+
+h3{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.news{
+    font-weight: 600;
+}
+
+.date{
+    color: rgb(184, 183, 183);
+    font-weight: 600;
+}
+
+span, .blueWord{
+    color: rgb(101, 101, 240);
+    font-weight: bold;
+}
