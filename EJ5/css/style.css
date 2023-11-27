@@ -1,0 +1,57 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+h1{
+    color: rgb(101, 179, 252);
+}
+
+.firstCol{
+    display: flex;
+    align-items: center;
+}
+
+#showUsers{
+    width: 150px;
+}
+
+input{
+    height: 40px;
+}
+
+.input-group{
+    display: flex;
+    align-items: center;
+    width: 400px;
+    margin-left: 530px;
+}
+
+label{
+    margin-right: 10px;
+}
+
+table{
+    border: 1px solid;
+    border-color: rgb(185, 184, 184);
+}
+
+.tableRowGrey td{
+    background-color: rgb(241, 235, 235);
+}
+
+.nav-btn1{
+    gap:0px;
+    background-color: transparent;
+    color: gray;
+    border-color: rgb(185, 184, 184);
+}
+
+td, th{
+    border-right: 1px solid;
+    border-color: rgb(185, 184, 184);
+}
