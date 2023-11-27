@@ -1,0 +1,79 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.row1{
+    background-image: url(/EJ7/img/background.JPG);
+}
+
+h4, #profesion{
+    color: white;
+}
+
+h4{
+    font-size: 30px;
+}
+
+#profesion{
+    font-size: 25px;
+}
+
+.profile{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#col2{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+#col2 svg{
+    margin-top: 27px;
+}
+
+#col3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+svg{
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+
+h5{
+    text-align: center;
+    color: green;
+    margin-top: 10px;
+    border-bottom: 1px solid;
+    border-color: rgb(192, 190, 190);
+}
+
+.pCenter{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.bottom {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: auto;
+    margin: 0px;
+    color: red;
+}
