@@ -40,3 +40,7 @@ span, .blueWord{
     color: rgb(101, 101, 240);
     font-weight: bold;
 }
+
+#admin{
+    margin-right: 1150px;
+}
