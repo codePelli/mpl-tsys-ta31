@@ -14,7 +14,7 @@ img{
 }
 
 .row1{
-    background-image: url(/EJ7/img/background.JPG);
+    background-image: url("../img/background.JPG");
     background-repeat: no-repeat;
     background-size: cover;
 }
