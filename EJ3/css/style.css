@@ -74,6 +74,8 @@ svg{
 }
 
 #user{
+    position: relative;
+    left: 13px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -97,4 +99,13 @@ svg{
 
 .dropdown-menu{
     background-color: rgb(161, 159, 159);
+}
+
+#calendar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 50px;
+    background-color: rgb(63, 63, 192);
 }
